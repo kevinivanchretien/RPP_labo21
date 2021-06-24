@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1624479586 source:/Users/lulucesoli/Desktop/code/RPP_Labo/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+	"servicios.h"
+	"marca.h"
+	"trabajo.h"
+
+1624472770 /Users/lulucesoli/Desktop/code/RPP_Labo/fecha.h
+
+1624472770 source:/Users/lulucesoli/Desktop/code/RPP_Labo/fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1624478615 source:/Users/lulucesoli/Desktop/code/RPP_Labo/servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicios.h"
+
+1624477656 /Users/lulucesoli/Desktop/code/RPP_Labo/servicios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624472927 source:/Users/lulucesoli/Desktop/code/RPP_Labo/marca.c
+	"marca.h"
+
+1624472927 /Users/lulucesoli/Desktop/code/RPP_Labo/marca.h
+
+1624473094 source:/Users/lulucesoli/Desktop/code/RPP_Labo/trabajo.c
+	"trabajo.h"
+
+1624473094 /Users/lulucesoli/Desktop/code/RPP_Labo/trabajo.h
+
+1624565829 source:/Users/lulucesoli/Documents/code/RPP_Labo/fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+	"utn.h"
+
+1624565489 /Users/lulucesoli/Documents/code/RPP_Labo/fecha.h
+
+1624574122 source:/Users/lulucesoli/Documents/code/RPP_Labo/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+	"servicios.h"
+	"marca.h"
+	"trabajo.h"
+	"utn.h"
+
+1624562108 /Users/lulucesoli/Documents/code/RPP_Labo/servicios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624561316 /Users/lulucesoli/Documents/code/RPP_Labo/marca.h
+
+1624574875 /Users/lulucesoli/Documents/code/RPP_Labo/trabajo.h
+	"fecha.h"
+
+1624563734 source:/Users/lulucesoli/Documents/code/RPP_Labo/marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"marca.h"
+
+1624574875 source:/Users/lulucesoli/Documents/code/RPP_Labo/trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"trabajo.h"
+	"fecha.h"
+	"marca.h"
+	"servicios.h"
+	"utn.h"
+
+1624562334 source:/Users/lulucesoli/Documents/code/RPP_Labo/servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicios.h"
+
+1624542542 /Users/lulucesoli/Documents/code/RPP_Labo/utn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1624551555 source:/Users/lulucesoli/Documents/code/RPP_Labo/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
